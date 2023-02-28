@@ -2,3 +2,7 @@
     background-image: url('./imgs/white_tiles.jpg');
     background-size: cover;
 }
+
+.contact-link {
+    text-decoration: none;
+}
