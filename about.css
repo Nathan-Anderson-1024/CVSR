@@ -6,3 +6,6 @@
 .contact-link {
     text-decoration: none;
 }
+.gallery-img {
+    max-height: 300px;
+}
