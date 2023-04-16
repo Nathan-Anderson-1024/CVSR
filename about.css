@@ -9,3 +9,6 @@
 .gallery-img {
     max-height: 400px;
 }
+body {
+    scroll-behavior: smooth;
+}
