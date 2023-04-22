@@ -26,3 +26,10 @@
         display: block;
     }
 }
+
+@media only screen and (min-width: 1025px) {
+    .index-header {
+        padding-left: 0px !important;
+        padding-right: 0px !important; 
+    }
+}
